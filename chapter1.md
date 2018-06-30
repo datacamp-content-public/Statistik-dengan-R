@@ -10,6 +10,7 @@ type: NormalExercise
 lang: r
 xp: 100
 skills: 1
+key: 17b8a186c9
 ```
 
 This is the assignment text. It should help provide students with the background information needed.
